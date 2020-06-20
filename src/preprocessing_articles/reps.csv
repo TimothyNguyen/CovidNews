@@ -1,541 +1,538 @@
-,name,twitter,party,title,gender,state
-0,A. Donald McEachin,RepMcEachin,democrat,House of Representatives,male,virginia
-1,A. Drew Ferguson IV,RepDrewFerguson,republican,House of Representatives,male,georgia
-2,Abby Finkenauer,,democrat,House of Representatives,female,iowa
-3,Abigail Davis Spanberger,,democrat,House of Representatives,female,virginia
-4,Adam B. Schiff,RepAdamSchiff,democrat,House of Representatives,male,california
-5,Adam Kinzinger,RepKinzinger,republican,House of Representatives,male,illinois
-6,Adam Smith,RepAdamSmith,democrat,House of Representatives,male,washington
-7,Adrian Smith,RepAdrianSmith,republican,House of Representatives,male,nebraska
-8,Adriano Espaillat,RepEspaillat,democrat,House of Representatives,male,new york
-9,Al Green,RepAlGreen,democrat,House of Representatives,male,texas
-10,"Al Lawson, Jr.",RepAlLawsonJr,democrat,House of Representatives,male,florida
-11,Alan S. Lowenthal,RepLowenthal,democrat,House of Representatives,male,california
-12,Albio Sires,RepSires,democrat,House of Representatives,male,new jersey
-13,Alcee L. Hastings,RepHastingsFL,democrat,House of Representatives,male,florida
-14,Alexander X. Mooney,RepAlexMooney,republican,House of Representatives,male,west virginia
-15,Alexandria Ocasio-Cortez,,democrat,House of Representatives,female,new york
-16,Alma S. Adams,RepAdams,democrat,House of Representatives,female,north carolina
-17,Ami Bera,RepBera,democrat,House of Representatives,male,california
-18,André Carson,RepAndreCarson,democrat,House of Representatives,male,indiana
-19,Andy Barr,RepAndyBarr,republican,House of Representatives,male,kentucky
-20,Andy Biggs,RepAndyBiggsAZ,republican,House of Representatives,male,arizona
-21,Andy Harris,RepAndyHarrisMD,republican,House of Representatives,male,maryland
-22,Andy Kim,,democrat,House of Representatives,male,new jersey
-23,Andy Levin,,democrat,House of Representatives,male,michigan
-24,Angie Craig,,democrat,House of Representatives,female,minnesota
-25,Ann Kirkpatrick,RepKirkpatrick,democrat,House of Representatives,female,arizona
-26,Ann M. Kuster,RepAnnieKuster,democrat,House of Representatives,female,new hampshire
-27,Ann Wagner,RepAnnWagner,republican,House of Representatives,female,missouri
-28,Anna G. Eshoo,RepAnnaEshoo,democrat,House of Representatives,female,california
-29,Anthony Brindisi,,democrat,House of Representatives,male,new york
-30,Anthony G. Brown,RepAnthonyBrown,democrat,House of Representatives,male,maryland
-31,Anthony Gonzalez,,republican,House of Representatives,male,ohio
-32,Antonio Delgado,,democrat,House of Representatives,male,new york
-33,Aumua Amata Coleman Radewagen,RepAmata,republican,House of Representatives,female,AS-0
-34,Austin Scott,AustinScottGA08,republican,House of Representatives,male,georgia
-35,Ayanna Pressley,,democrat,House of Representatives,female,massachusetts
-36,Barbara Lee,RepBarbaraLee,democrat,House of Representatives,female,california
-37,Barry Loudermilk,RepLoudermilk,republican,House of Representatives,male,georgia
-38,Ben Cline,,republican,House of Representatives,male,virginia
-39,Ben McAdams,,democrat,House of Representatives,male,utah
-40,Ben Ray Luján,RepBenRayLujan,democrat,House of Representatives,male,new mexico
-41,Bennie G. Thompson,BennieGThompson,democrat,House of Representatives,male,mississippi
-42,Betty McCollum,BettyMcCollum04,democrat,House of Representatives,female,minnesota
-43,Bill Flores,RepBillFlores,republican,House of Representatives,male,texas
-44,Bill Foster,RepBillFoster,democrat,House of Representatives,male,illinois
-45,Bill Huizenga,RepHuizenga,republican,House of Representatives,male,michigan
-46,Bill Johnson,RepBillJohnson,republican,House of Representatives,male,ohio
-47,"Bill Pascrell, Jr.",BillPascrell,democrat,House of Representatives,male,new jersey
-48,Bill Posey,CongBillPosey,republican,House of Representatives,male,florida
-49,Billy Long,USRepLong,republican,House of Representatives,male,missouri
-50,Blaine Luetkemeyer,RepBlaine,republican,House of Representatives,male,missouri
-51,Bob Gibbs,RepBobGibbs,republican,House of Representatives,male,ohio
-52,Bobby L. Rush,RepBobbyRush,democrat,House of Representatives,male,illinois
-53,Bonnie Watson Coleman,RepBonnie,democrat,House of Representatives,female,new jersey
-54,Brad R. Wenstrup,RepBradWenstrup,republican,House of Representatives,male,ohio
-55,Brad Sherman,BradSherman,democrat,House of Representatives,male,california
-56,Bradley Byrne,RepByrne,republican,House of Representatives,male,alabama
-57,Bradley Scott Schneider,repschneider,democrat,House of Representatives,male,illinois
-58,Brenda L. Lawrence,RepLawrence,democrat,House of Representatives,female,michigan
-59,Brendan F. Boyle,CongBoyle,democrat,House of Representatives,male,pennsylvania
-60,Brett Guthrie,RepGuthrie,republican,House of Representatives,male,kentucky
-61,Brian Babin,RepBrianBabin,republican,House of Representatives,male,texas
-62,Brian Higgins,RepBrianHiggins,democrat,House of Representatives,male,new york
-63,Brian J. Mast,repbrianmast,republican,House of Representatives,male,florida
-64,Brian K. Fitzpatrick,repbrianfitz,republican,House of Representatives,male,pennsylvania
-65,Bruce Westerman,RepWesterman,republican,House of Representatives,male,arkansas
-66,Bryan Steil,,republican,House of Representatives,male,wisconsin
-67,C. A. Dutch Ruppersberger,Call_Me_Dutch,democrat,House of Representatives,male,maryland
-68,Carol D. Miller,,republican,House of Representatives,female,west virginia
-69,Carolyn B. Maloney,RepMaloney,democrat,House of Representatives,female,new york
-70,Cathy McMorris Rodgers,CathyMcMorris,republican,House of Representatives,female,washington
-71,Cedric L. Richmond,RepRichmond,democrat,House of Representatives,male,louisiana
-72,"Charles J. ""Chuck"" Fleischmann",RepChuck,republican,House of Representatives,male,tennessee
-73,Charlie Crist,repcharliecrist,democrat,House of Representatives,male,florida
-74,Chellie Pingree,ChelliePingree,democrat,House of Representatives,female,maine
-75,Cheri Bustos,RepCheri,democrat,House of Representatives,female,illinois
-76,Chip Roy,,republican,House of Representatives,male,texas
-77,Chris Collins,RepChrisCollins,republican,House of Representatives,male,new york
-78,Chris Pappas,,democrat,House of Representatives,male,new hampshire
-79,Chris Stewart,RepChrisStewart,republican,House of Representatives,male,utah
-80,Chrissy Houlahan,,democrat,House of Representatives,female,pennsylvania
-81,Christopher H. Smith,RepChrisSmith,republican,House of Representatives,male,new jersey
-82,Clay Higgins,RepClayHiggins,republican,House of Representatives,male,louisiana
-83,Colin Z. Allred,,democrat,House of Representatives,male,texas
-84,Collin C. Peterson,collinpeterson,democrat,House of Representatives,male,minnesota
-85,Conor Lamb,RepConorLamb,democrat,House of Representatives,male,pennsylvania
-86,Cynthia Axne,,democrat,House of Representatives,female,iowa
-87,Dan Crenshaw,,republican,House of Representatives,male,texas
-88,Dan Newhouse,RepNewhouse,republican,House of Representatives,male,washington
-89,Daniel Lipinski,RepLipinski,democrat,House of Representatives,male,illinois
-90,Daniel Meuser,,republican,House of Representatives,male,pennsylvania
-91,Daniel T. Kildee,RepDanKildee,democrat,House of Representatives,male,michigan
-92,Daniel Webster,RepWebster,republican,House of Representatives,male,florida
-93,Danny K. Davis,RepDannyDavis,democrat,House of Representatives,male,illinois
-94,Darin LaHood,RepLaHood,republican,House of Representatives,male,illinois
-95,Darren Soto,RepDarrenSoto,democrat,House of Representatives,male,florida
-96,David B. McKinley,RepMcKinley,republican,House of Representatives,male,west virginia
-97,David E. Price,RepDavidEPrice,democrat,House of Representatives,male,north carolina
-98,David J. Trone,,democrat,House of Representatives,male,maryland
-99,David Kustoff,repdavidkustoff,republican,House of Representatives,male,tennessee
-100,David Loebsack,DaveLoebsack,democrat,House of Representatives,male,iowa
-101,David N. Cicilline,RepCicilline,democrat,House of Representatives,male,rhode island
-102,David P. Joyce,RepDaveJoyce,republican,House of Representatives,male,ohio
-103,David P. Roe,DrPhilRoe,republican,House of Representatives,male,tennessee
-104,David Rouzer,RepDavidRouzer,republican,House of Representatives,male,north carolina
-105,David Schweikert,RepDavid,republican,House of Representatives,male,arizona
-106,David Scott,RepDavidScott,democrat,House of Representatives,male,georgia
-107,Dean Phillips,,democrat,House of Representatives,male,minnesota
-108,Debbie Dingell,RepDebDingell,democrat,House of Representatives,female,michigan
-109,Debbie Lesko,RepDLesko,republican,House of Representatives,female,arizona
-110,Debbie Mucarsel-Powell,,democrat,House of Representatives,female,florida
-111,Debbie Wasserman Schultz,RepDWStweets,democrat,House of Representatives,female,florida
-112,Debra A. Haaland,,democrat,House of Representatives,female,new mexico
-113,Denny Heck,RepDennyHeck,democrat,House of Representatives,male,washington
-114,Denver Riggleman,,republican,House of Representatives,male,virginia
-115,Derek Kilmer,RepDerekKilmer,democrat,House of Representatives,male,washington
-116,Devin Nunes,RepDevinNunes,republican,House of Representatives,male,california
-117,Diana DeGette,RepDianaDeGette,democrat,House of Representatives,female,colorado
-118,Dina Titus,RepDinaTitus,democrat,House of Representatives,female,nevada
-119,Don Bacon,repdonbacon,republican,House of Representatives,male,nebraska
-120,Don Young,RepDonYoung,republican,House of Representatives,male,alaska
-121,"Donald M. Payne, Jr.",RepDonaldPayne,democrat,House of Representatives,male,new jersey
-122,Donald Norcross,DonaldNorcross,democrat,House of Representatives,male,new jersey
-123,"Donald S. Beyer, Jr.",RepDonBeyer,democrat,House of Representatives,male,virginia
-124,Donna E. Shalala,,democrat,House of Representatives,female,florida
-125,Doris O. Matsui,DorisMatsui,democrat,House of Representatives,female,california
-126,Doug Collins,RepDougCollins,republican,House of Representatives,male,georgia
-127,Doug LaMalfa,RepLaMalfa,republican,House of Representatives,male,california
-128,Doug Lamborn,RepDLamborn,republican,House of Representatives,male,colorado
-129,Duncan Hunter,Rep_Hunter,republican,House of Representatives,male,california
-130,Dusty Johnson,,republican,House of Representatives,male,south dakota
-131,Dwight Evans,RepDwightEvans,democrat,House of Representatives,male,pennsylvania
-132,Earl Blumenauer,BlumenauerMedia,democrat,House of Representatives,male,oregon
-133,"Earl L. ""Buddy"" Carter",RepBuddyCarter,republican,House of Representatives,male,georgia
-134,Ed Case,EdCaseHawaii,democrat,House of Representatives,male,hawaii
-135,Ed Perlmutter,RepPerlmutter,democrat,House of Representatives,male,colorado
-136,Eddie Bernice Johnson,RepEBJ,democrat,House of Representatives,female,texas
-137,Elaine G. Luria,,democrat,House of Representatives,female,virginia
-138,Eleanor Holmes Norton,EleanorNorton,democrat,House of Representatives,female,DC-0
-139,Elijah E. Cummings,RepCummings,democrat,House of Representatives,male,maryland
-140,Eliot L. Engel,RepEliotEngel,democrat,House of Representatives,male,new york
-141,Elise M. Stefanik,RepStefanik,republican,House of Representatives,female,new york
-142,Elissa Slotkin,,democrat,House of Representatives,female,michigan
-143,Emanuel Cleaver,RepCleaver,democrat,House of Representatives,male,missouri
-144,"Eric A. ""Rick"" Crawford",RepRickCrawford,republican,House of Representatives,male,arkansas
-145,Eric Swalwell,RepSwalwell,democrat,House of Representatives,male,california
-146,"F. James Sensenbrenner, Jr.",JimPressOffice,republican,House of Representatives,male,wisconsin
-147,Filemon Vela,RepFilemonVela,democrat,House of Representatives,male,texas
-148,Francis Rooney,RepRooney,republican,House of Representatives,male,florida
-149,Frank D. Lucas,RepFrankLucas,republican,House of Representatives,male,oklahoma
-150,"Frank Pallone, Jr.",FrankPallone,democrat,House of Representatives,male,new jersey
-151,Fred Upton,RepFredUpton,republican,House of Representatives,male,michigan
-152,Frederica S. Wilson,RepWilson,democrat,House of Representatives,female,florida
-153,G. K. Butterfield,GKButterfield,democrat,House of Representatives,male,north carolina
-154,Garret Graves,RepGarretGraves,republican,House of Representatives,male,louisiana
-155,Gary J. Palmer,USRepGaryPalmer,republican,House of Representatives,male,alabama
-156,George Holding,RepHolding,republican,House of Representatives,male,north carolina
-157,Gerald E. Connolly,GerryConnolly,democrat,House of Representatives,male,virginia
-158,"Gilbert Ray Cisneros, Jr.",,democrat,House of Representatives,male,california
-159,Glenn Grothman,RepGrothman,republican,House of Representatives,male,wisconsin
-160,Glenn Thompson,CongressmanGT,republican,House of Representatives,male,pennsylvania
-161,Grace F. Napolitano,GraceNapolitano,democrat,House of Representatives,female,california
-162,Grace Meng,RepGraceMeng,democrat,House of Representatives,female,new york
-163,Greg Gianforte,GregForMontana,republican,House of Representatives,male,montana
-164,Greg Pence,,republican,House of Representatives,male,indiana
-165,Greg Stanton,,democrat,House of Representatives,male,arizona
-166,Greg Walden,RepGregWalden,republican,House of Representatives,male,oregon
-167,Gregorio Kilili Camacho Sablan,Kilili_Sablan,democrat,House of Representatives,male,MP-0
-168,Gregory W. Meeks,RepGregoryMeeks,democrat,House of Representatives,male,new york
-169,Gus M. Bilirakis,RepGusBilirakis,republican,House of Representatives,male,florida
-170,Guy Reschenthaler,,republican,House of Representatives,male,pennsylvania
-171,Gwen Moore,RepGwenMoore,democrat,House of Representatives,female,wisconsin
-172,H. Morgan Griffith,RepMGriffith,republican,House of Representatives,male,virginia
-173,Hakeem S. Jeffries,RepJeffries,democrat,House of Representatives,male,new york
-174,Haley M. Stevens,,democrat,House of Representatives,female,michigan
-175,Harley Rouda,,democrat,House of Representatives,male,california
-176,Harold Rogers,RepHalRogers,republican,House of Representatives,male,kentucky
-177,"Henry C. ""Hank"" Johnson, Jr.",RepHankJohnson,democrat,House of Representatives,male,georgia
-178,Henry Cuellar,RepCuellar,democrat,House of Representatives,male,texas
-179,Ilhan Omar,,democrat,House of Representatives,female,minnesota
-180,J. French Hill,RepFrenchHill,republican,House of Representatives,male,arkansas
-181,J. Luis Correa,reploucorrea,democrat,House of Representatives,male,california
-182,Jack Bergman,RepJackBergman,republican,House of Representatives,male,michigan
-183,Jackie Speier,RepSpeier,democrat,House of Representatives,female,california
-184,Jackie Walorski,RepWalorski,republican,House of Representatives,female,indiana
-185,Jahana Hayes,,democrat,House of Representatives,female,connecticut
-186,Jaime Herrera Beutler,HerreraBeutler,republican,House of Representatives,female,washington
-187,James A. Himes,JAHimes,democrat,House of Representatives,male,connecticut
-188,James Comer,KYComer,republican,House of Representatives,male,kentucky
-189,James E. Clyburn,Clyburn,democrat,House of Representatives,male,south carolina
-190,James P. McGovern,RepMcGovern,democrat,House of Representatives,male,massachusetts
-191,James R. Baird,,republican,House of Representatives,male,indiana
-192,James R. Langevin,JimLangevin,democrat,House of Representatives,male,rhode island
-193,Jamie Raskin,repraskin,democrat,House of Representatives,male,maryland
-194,Janice D. Schakowsky,JanSchakowsky,democrat,House of Representatives,female,illinois
-195,Jared Golden,,democrat,House of Representatives,male,maine
-196,Jared Huffman,RepHuffman,democrat,House of Representatives,male,california
-197,Jason Crow,,democrat,House of Representatives,male,colorado
-198,Jason Smith,RepJasonSmith,republican,House of Representatives,male,missouri
-199,Jeff Duncan,RepJeffDuncan,republican,House of Representatives,male,south carolina
-200,Jeff Fortenberry,JeffFortenberry,republican,House of Representatives,male,nebraska
-201,Jefferson Van Drew,,democrat,House of Representatives,male,new jersey
-202,Jennifer Wexton,,democrat,House of Representatives,female,virginia
-203,Jenniffer González-Colón,repjenniffer,republican,House of Representatives,female,PR-0
-204,Jerrold Nadler,RepJerryNadler,democrat,House of Representatives,male,new york
-205,Jerry McNerney,RepMcNerney,democrat,House of Representatives,male,california
-206,Jesús G. García,,democrat,House of Representatives,male,illinois
-207,Jim Banks,RepJimBanks,republican,House of Representatives,male,indiana
-208,Jim Cooper,RepJimCooper,democrat,House of Representatives,male,tennessee
-209,Jim Costa,RepJimCosta,democrat,House of Representatives,male,california
-210,Jim Hagedorn,,republican,House of Representatives,male,minnesota
-211,Jim Jordan,Jim_Jordan,republican,House of Representatives,male,ohio
-212,Jimmy Gomez,RepJimmyGomez,democrat,House of Representatives,male,california
-213,Jimmy Panetta,RepJimmyPanetta,democrat,House of Representatives,male,california
-214,Joaquin Castro,JoaquinCastrotx,democrat,House of Representatives,male,texas
-215,Jodey C. Arrington,RepArrington,republican,House of Representatives,male,texas
-216,Jody B. Hice,congressmanhice,republican,House of Representatives,male,georgia
-217,Joe Courtney,RepJoeCourtney,democrat,House of Representatives,male,connecticut
-218,Joe Cunningham,,democrat,House of Representatives,male,south carolina
-219,Joe Neguse,,democrat,House of Representatives,male,colorado
-220,Joe Wilson,RepJoeWilson,republican,House of Representatives,male,south carolina
-221,John A. Yarmuth,RepJohnYarmuth,democrat,House of Representatives,male,kentucky
-222,John B. Larson,RepJohnLarson,democrat,House of Representatives,male,connecticut
-223,John Garamendi,RepGaramendi,democrat,House of Representatives,male,california
-224,John H. Rutherford,RepRutherfordFL,republican,House of Representatives,male,florida
-225,John Joyce,,republican,House of Representatives,male,pennsylvania
-226,John Katko,RepJohnKatko,republican,House of Representatives,male,new york
-227,John Lewis,RepJohnLewis,democrat,House of Representatives,male,georgia
-228,John P. Sarbanes,RepSarbanes,democrat,House of Representatives,male,maryland
-229,John R. Carter,JudgeCarter,republican,House of Representatives,male,texas
-230,John R. Curtis,RepJohnCurtis,republican,House of Representatives,male,utah
-231,John R. Moolenaar,RepMoolenaar,republican,House of Representatives,male,michigan
-232,John Ratcliffe,RepRatcliffe,republican,House of Representatives,male,texas
-233,John Shimkus,RepShimkus,republican,House of Representatives,male,illinois
-234,John W. Rose,,republican,House of Representatives,male,tennessee
-235,Joseph D. Morelle,,democrat,House of Representatives,male,new york
-236,Joseph P. Kennedy III,RepJoeKennedy,democrat,House of Representatives,male,massachusetts
-237,Josh Gottheimer,RepJoshG,democrat,House of Representatives,male,new jersey
-238,Josh Harder,,democrat,House of Representatives,male,california
-239,José E. Serrano,RepJoseSerrano,democrat,House of Representatives,male,new york
-240,Joyce Beatty,RepBeatty,democrat,House of Representatives,female,ohio
-241,Juan Vargas,RepJuanVargas,democrat,House of Representatives,male,california
-242,Judy Chu,RepJudyChu,democrat,House of Representatives,female,california
-243,Julia Brownley,JuliaBrownley26,democrat,House of Representatives,female,california
-244,Justin Amash,justinamash,republican,House of Representatives,male,michigan
-245,K. Michael Conaway,ConawayTX11,republican,House of Representatives,male,texas
-246,Karen Bass,RepKarenBass,democrat,House of Representatives,female,california
-247,Katherine M. Clark,RepKClark,democrat,House of Representatives,female,massachusetts
-248,Kathleen M. Rice,RepKathleenRice,democrat,House of Representatives,female,new york
-249,Kathy Castor,USRepKCastor,democrat,House of Representatives,female,florida
-250,Katie Hill,,democrat,House of Representatives,female,california
-251,Katie Porter,,democrat,House of Representatives,female,california
-252,Kay Granger,RepKayGranger,republican,House of Representatives,female,texas
-253,Kelly Armstrong,,republican,House of Representatives,male,north dakota
-254,Ken Buck,RepKenBuck,republican,House of Representatives,male,colorado
-255,Ken Calvert,KenCalvert,republican,House of Representatives,male,california
-256,Kendra S. Horn,,democrat,House of Representatives,female,oklahoma
-257,Kenny Marchant,RepKenMarchant,republican,House of Representatives,male,texas
-258,Kevin Brady,RepKevinBrady,republican,House of Representatives,male,texas
-259,Kevin Hern,,republican,House of Representatives,male,oklahoma
-260,Kevin McCarthy,GOPLeader,republican,House of Representatives,male,california
-261,Kim Schrier,,democrat,House of Representatives,female,washington
-262,Kurt Schrader,RepSchrader,democrat,House of Representatives,male,oregon
-263,Lance Gooden,,republican,House of Representatives,male,texas
-264,Larry Bucshon,RepLarryBucshon,republican,House of Representatives,male,indiana
-265,Lauren Underwood,,democrat,House of Representatives,female,illinois
-266,Lee M. Zeldin,RepLeeZeldin,republican,House of Representatives,male,new york
-267,Linda T. Sánchez,RepLindaSanchez,democrat,House of Representatives,female,california
-268,Lisa Blunt Rochester,RepLBR,democrat,House of Representatives,female,delaware
-269,Liz Cheney,RepLizCheney,republican,House of Representatives,female,Wyoming
-270,Lizzie Fletcher,,democrat,House of Representatives,female,texas
-271,Lloyd Doggett,RepLloydDoggett,democrat,House of Representatives,male,texas
-272,Lloyd Smucker,RepSmucker,republican,House of Representatives,male,pennsylvania
-273,Lois Frankel,RepLoisFrankel,democrat,House of Representatives,female,florida
-274,Lori Trahan,,democrat,House of Representatives,female,massachusetts
-275,Louie Gohmert,RepLouieGohmert,republican,House of Representatives,male,texas
-276,Lucille Roybal-Allard,RepRoybalAllard,democrat,House of Representatives,female,california
-277,Lucy McBath,,democrat,House of Representatives,female,georgia
-278,Mac Thornberry,MacTXPress,republican,House of Representatives,male,texas
-279,Madeleine Dean,,democrat,House of Representatives,female,pennsylvania
-280,Marc A. Veasey,RepVeasey,democrat,House of Representatives,male,texas
-281,Marcia L. Fudge,RepMarciaFudge,democrat,House of Representatives,female,ohio
-282,Marcy Kaptur,RepMarcyKaptur,democrat,House of Representatives,female,ohio
-283,Mario Diaz-Balart,MarioDB,republican,House of Representatives,male,florida
-284,Mark DeSaulnier,RepDeSaulnier,democrat,House of Representatives,male,california
-285,Mark E. Amodei,MarkAmodeiNV2,republican,House of Representatives,male,nevada
-286,Mark E. Green,,republican,House of Representatives,male,tennessee
-287,Mark Meadows,RepMarkMeadows,republican,House of Representatives,male,north carolina
-288,Mark Pocan,RepMarkPocan,democrat,House of Representatives,male,wisconsin
-289,Mark Takano,RepMarkTakano,democrat,House of Representatives,male,california
-290,Mark Walker,RepMarkWalker,republican,House of Representatives,male,north carolina
-291,Markwayne Mullin,RepMullin,republican,House of Representatives,male,oklahoma
-292,Martha Roby,RepMarthaRoby,republican,House of Representatives,female,alabama
-293,Mary Gay Scanlon,,democrat,House of Representatives,female,pennsylvania
-294,Matt Cartwright,RepCartwright,democrat,House of Representatives,male,pennsylvania
-295,Matt Gaetz,RepMattGaetz,republican,House of Representatives,male,florida
-296,Max Rose,,democrat,House of Representatives,male,new york
-297,Maxine Waters,RepMaxineWaters,democrat,House of Representatives,female,california
-298,Michael C. Burgess,MichaelCBurgess,republican,House of Representatives,male,texas
-299,Michael Cloud,michaeljcloud,republican,House of Representatives,male,texas
-300,Michael F. Doyle,USRepMikeDoyle,democrat,House of Representatives,male,pennsylvania
-301,Michael F. Q. San Nicolas,,democrat,House of Representatives,male,GU-0
-302,Michael Guest,,republican,House of Representatives,male,mississippi
-303,Michael K. Simpson,CongMikeSimpson,republican,House of Representatives,male,idaho
-304,Michael R. Turner,RepMikeTurner,republican,House of Representatives,male,ohio
-305,Michael T. McCaul,RepMcCaul,republican,House of Representatives,male,texas
-306,Michael Waltz,,republican,House of Representatives,male,florida
-307,Mike Bost,RepBost,republican,House of Representatives,male,illinois
-308,Mike Gallagher,RepGallagher,republican,House of Representatives,male,wisconsin
-309,Mike Johnson,RepMikeJohnson,republican,House of Representatives,male,louisiana
-310,Mike Kelly,MikeKellyPA,republican,House of Representatives,male,pennsylvania
-311,Mike Levin,,democrat,House of Representatives,male,california
-312,Mike Quigley,RepMikeQuigley,democrat,House of Representatives,male,illinois
-313,Mike Rogers,RepMikeRogersAL,republican,House of Representatives,male,alabama
-314,Mike Thompson,RepThompson,democrat,House of Representatives,male,california
-315,Mikie Sherrill,,democrat,House of Representatives,female,new jersey
-316,Mo Brooks,RepMoBrooks,republican,House of Representatives,male,alabama
-317,Nancy Pelosi,NancyPelosi,democrat,House of Representatives,female,california
-318,Nanette Diaz Barragán,RepBarragan,democrat,House of Representatives,female,california
-319,Neal P. Dunn,drnealdunnfl2,republican,House of Representatives,male,florida
-320,Nita M. Lowey,NitaLowey,democrat,House of Representatives,female,new york
-321,Norma J. Torres,NormaJTorres,democrat,House of Representatives,female,california
-322,Nydia M. Velázquez,NydiaVelazquez,democrat,House of Representatives,female,new york
-323,Patrick T. McHenry,PatrickMcHenry,republican,House of Representatives,male,north carolina
-324,Paul A. Gosar,RepGosar,republican,House of Representatives,male,arizona
-325,Paul Cook,RepPaulCook,republican,House of Representatives,male,california
-326,Paul Mitchell,RepPaulMitchell,republican,House of Representatives,male,michigan
-327,Paul Tonko,RepPaulTonko,democrat,House of Representatives,male,new york
-328,Pete Aguilar,reppeteaguilar,democrat,House of Representatives,male,california
-329,Pete Olson,RepPeteOlson,republican,House of Representatives,male,texas
-330,Pete Stauber,,republican,House of Representatives,male,minnesota
-331,Peter A. DeFazio,RepPeterDeFazio,democrat,House of Representatives,male,oregon
-332,Peter J. Visclosky,RepVisclosky,democrat,House of Representatives,male,indiana
-333,Peter T. King,RepPeteKing,republican,House of Representatives,male,new york
-334,Peter Welch,PeterWelch,democrat,House of Representatives,male,VT-0
-335,Pramila Jayapal,RepJayapal,democrat,House of Representatives,female,washington
-336,Raja Krishnamoorthi,congressmanraja,democrat,House of Representatives,male,illinois
-337,Ralph Lee Abraham,RepAbraham,republican,House of Representatives,male,louisiana
-338,Ralph Norman,RepRalphNorman,republican,House of Representatives,male,south carolina
-339,"Randy K. Weber, Sr.",TXRandy14,republican,House of Representatives,male,texas
-340,Rashida Tlaib,,democrat,House of Representatives,female,michigan
-341,Raul Ruiz,CongressmanRuiz,democrat,House of Representatives,male,california
-342,Raúl M. Grijalva,RepraulGrijalva,democrat,House of Representatives,male,arizona
-343,Richard E. Neal,RepRichardNeal,democrat,House of Representatives,male,massachusetts
-344,Richard Hudson,RepRichHudson,republican,House of Representatives,male,north carolina
-345,Rick Larsen,RepRickLarsen,democrat,House of Representatives,male,washington
-346,Rick W. Allen,reprickallen,republican,House of Representatives,male,georgia
-347,Ro Khanna,RepRoKhanna,democrat,House of Representatives,male,california
-348,Rob Bishop,RepRobBishop,republican,House of Representatives,male,utah
-349,Rob Woodall,RepRobWoodall,republican,House of Representatives,male,georgia
-350,Robert B. Aderholt,Robert_Aderholt,republican,House of Representatives,male,alabama
-351,"Robert C. ""Bobby"" Scott",BobbyScott,democrat,House of Representatives,male,virginia
-352,Robert E. Latta,BobLatta,republican,House of Representatives,male,ohio
-353,Robert J. Wittman,RobWittman,republican,House of Representatives,male,virginia
-354,Robin L. Kelly,RepRobinKelly,democrat,House of Representatives,female,illinois
-355,Rodney Davis,RodneyDavis,republican,House of Representatives,male,illinois
-356,Roger W. Marshall,RepMarshall,republican,House of Representatives,male,kansas
-357,Roger Williams,RepRWilliams,republican,House of Representatives,male,texas
-358,Ron Estes,RepRonEstes,republican,House of Representatives,male,kansas
-359,Ron Kind,RepRonKind,democrat,House of Representatives,male,wisconsin
-360,Ron Wright,,republican,House of Representatives,male,texas
-361,Rosa L. DeLauro,RosaDeLauro,democrat,House of Representatives,female,connecticut
-362,Ross Spano,,republican,House of Representatives,male,florida
-363,Ruben Gallego,RepRubenGallego,democrat,House of Representatives,male,arizona
-364,Russ Fulcher,,republican,House of Representatives,male,idaho
-365,Salud O. Carbajal,RepCarbajal,democrat,House of Representatives,male,california
-366,Sam Graves,RepSamGraves,republican,House of Representatives,male,missouri
-367,"Sanford D. Bishop, Jr.",SanfordBishop,democrat,House of Representatives,male,georgia
-368,Scott DesJarlais,DesJarlaisTN04,republican,House of Representatives,male,tennessee
-369,Scott H. Peters,RepScottPeters,democrat,House of Representatives,male,california
-370,Scott Perry,RepScottPerry,republican,House of Representatives,male,pennsylvania
-371,Scott R. Tipton,RepTipton,republican,House of Representatives,male,colorado
-372,Sean Casten,,democrat,House of Representatives,male,illinois
-373,Sean P. Duffy,RepSeanDuffy,republican,House of Representatives,male,wisconsin
-374,Sean Patrick Maloney,RepSeanMaloney,democrat,House of Representatives,male,new york
-375,Seth Moulton,teammoulton,democrat,House of Representatives,male,massachusetts
-376,Sharice Davids,,democrat,House of Representatives,female,kansas
-377,Sheila Jackson Lee,JacksonLeeTX18,democrat,House of Representatives,female,texas
-378,Stacey E. Plaskett,staceyplaskett,democrat,House of Representatives,female,VI-0
-379,Steny H. Hoyer,WhipHoyer,democrat,House of Representatives,male,maryland
-380,Stephanie N. Murphy,RepStephMurphy,democrat,House of Representatives,female,florida
-381,Stephen F. Lynch,RepStephenLynch,democrat,House of Representatives,male,massachusetts
-382,Steve Chabot,RepSteveChabot,republican,House of Representatives,male,ohio
-383,Steve Cohen,RepCohen,democrat,House of Representatives,male,tennessee
-384,Steve King,SteveKingIA,republican,House of Representatives,male,iowa
-385,Steve Scalise,SteveScalise,republican,House of Representatives,male,louisiana
-386,Steve Stivers,RepSteveStivers,republican,House of Representatives,male,ohio
-387,Steve Womack,Rep_SteveWomack,republican,House of Representatives,male,arkansas
-388,"Steven C. Watkins, Jr.",,republican,House of Representatives,male,kansas
-389,Steven Horsford,StevenHorsford,democrat,House of Representatives,male,nevada
-390,Steven M. Palazzo,CongPalazzo,republican,House of Representatives,male,mississippi
-391,Susan A. Davis,RepSusanDavis,democrat,House of Representatives,female,california
-392,Susan W. Brooks,SusanWBrooks,republican,House of Representatives,female,indiana
-393,Susan Wild,,democrat,House of Representatives,female,pennsylvania
-394,Susie Lee,,democrat,House of Representatives,female,nevada
-395,Suzan K. DelBene,RepDelBene,democrat,House of Representatives,female,washington
-396,Suzanne Bonamici,RepBonamici,democrat,House of Representatives,female,oregon
-397,Sylvia R. Garcia,,democrat,House of Representatives,female,texas
-398,TJ Cox,,democrat,House of Representatives,male,california
-399,Ted Budd,RepTedBudd,republican,House of Representatives,male,north carolina
-400,Ted Lieu,RepTedLieu,democrat,House of Representatives,male,california
-401,Ted S. Yoho,RepTedYoho,republican,House of Representatives,male,florida
-402,Terri A. Sewell,RepTerriSewell,democrat,House of Representatives,female,alabama
-403,Theodore E. Deutch,RepTedDeutch,democrat,House of Representatives,male,florida
-404,Thomas Massie,RepThomasMassie,republican,House of Representatives,male,kentucky
-405,Thomas R. Suozzi,RepTomSuozzi,democrat,House of Representatives,male,new york
-406,Tim Burchett,,republican,House of Representatives,male,tennessee
-407,Tim Ryan,RepTimRyan,democrat,House of Representatives,male,ohio
-408,Tim Walberg,RepWalberg,republican,House of Representatives,male,michigan
-409,Tom Cole,TomColeOK04,republican,House of Representatives,male,oklahoma
-410,Tom Emmer,RepTomEmmer,republican,House of Representatives,male,minnesota
-411,Tom Graves,RepTomGraves,republican,House of Representatives,male,georgia
-412,Tom Malinowski,,democrat,House of Representatives,male,new jersey
-413,Tom Marino,RepTomMarino,republican,House of Representatives,male,pennsylvania
-414,Tom McClintock,RepMcClintock,republican,House of Representatives,male,california
-415,Tom O’Halleran,repohalleran,democrat,House of Representatives,male,arizona
-416,Tom Reed,RepTomReed,republican,House of Representatives,male,new york
-417,Tom Rice,RepTomRice,republican,House of Representatives,male,south carolina
-418,Tony Cárdenas,RepCardenas,democrat,House of Representatives,male,california
-419,Trent Kelly,reptrentkelly,republican,House of Representatives,male,mississippi
-420,Trey Hollingsworth,reptrey,republican,House of Representatives,male,indiana
-421,Troy Balderson,RepBalderson,republican,House of Representatives,male,ohio
-422,Tulsi Gabbard,TulsiPress,democrat,House of Representatives,female,hawaii
-423,Val Butler Demings,RepValDemings,democrat,House of Representatives,female,florida
-424,Van Taylor,,republican,House of Representatives,male,texas
-425,Vern Buchanan,VernBuchanan,republican,House of Representatives,male,florida
-426,Veronica Escobar,,democrat,House of Representatives,female,texas
-427,Vicente Gonzalez,RepGonzalez,democrat,House of Representatives,male,texas
-428,Vicky Hartzler,RepHartzler,republican,House of Representatives,female,missouri
-429,Virginia Foxx,VirginiaFoxx,republican,House of Representatives,female,north carolina
-430,W. Gregory Steube,,republican,House of Representatives,male,florida
-431,Walter B. Jones,RepWalterJones,republican,House of Representatives,male,north carolina
-432,Warren Davidson,WarrenDavidson,republican,House of Representatives,male,ohio
-433,Will Hurd,hurdonthehill,republican,House of Representatives,male,texas
-434,William R. Keating,USRepKeating,democrat,House of Representatives,male,massachusetts
-435,William R. Timmons IV,,republican,House of Representatives,male,south carolina
-436,Wm. Lacy Clay,LacyClayMO1,democrat,House of Representatives,male,missouri
-437,Xochitl Torres Small,,democrat,House of Representatives,female,new mexico
-438,Yvette D. Clarke,RepYvetteClarke,democrat,House of Representatives,female,new york
-439,Zoe Lofgren,RepZoeLofgren,democrat,House of Representatives,female,california
-440,Daniel Sullivan,SenDanSullivan,republican,senator,male,alaska
-441,Lisa Murkowski,lisamurkowski,republican,senator,female,alaska
-442,Gordon Jones,sendougjones,democrat,senator,male,alabama
-443,Richard  Shelby,SenShelby,republican,senator,male,alabama
-444,John Boozman,JohnBoozman,republican,senator,male,arkansas
-445,Tom Cotton,sentomcotton,republican,senator,male,arkansas
-446,Martha McSally,marthamcsally,republican,senator,female,arizona
-447,Kyrsten Sinema,kyrstensinema,democrat,senator,female,arizona
-448,Dianne Feinstein,SenFeinstein,democrat,senator,female,california
-449,Kamala Harris,KamalaHarris,democrat,senator,female,california
-450,Cory Gardner,sencorygardner,republican,senator,male,colorado
-451,Michael  Bennet,SenBennetCO,democrat,senator,male,colorado
-452,Christopher Murphy,ChrisMurphyCT,democrat,senator,male,connecticut
-453,Richard Blumenthal,SenBlumenthal,democrat,senator,male,connecticut
-454,Christopher Coons,ChrisCoons,democrat,senator,male,delaware
-455,Thomas Carper,SenatorCarper,democrat,senator,male,delaware
-456,Rick Scott,SenRickScott,republican,senator,male,florida
-457,David Perdue,sendavidperdue,republican,senator,male,georgia
-458,Marco Rubio,marcorubio,republican,senator,male,florida
-459,Johnny Isakson,senatorloeffler?lang=en,republican,senator,male,georgia
-460,Brian Schatz,brianschatz,democrat,senator,male,hawaii
-461,Mazie Hirono,maziehirono,democrat,senator,female,hawaii
-462,Charles Grassley,ChuckGrassley,republican,senator,male,iowa
-463,Joni Ernst,joniernst,republican,senator,female,iowa
-464,James Risch,SenatorRisch,republican,senator,male,idaho
-465,Mike Crapo,MikeCrapo,republican,senator,male,idaho
-466,Mike Braun,SenatorBraun,republican,senator,male,indiana
-467,Tammy Duckworth,RepDuckworth,democrat,senator,female,illinois
-468,Richard Durbin,SenatorDurbin,democrat,senate-minority-whip,male,illinois
-469,Todd Young,ToddYoungIN,republican,senator,male,indiana
-470,Jerry Moran,JerryMoran,republican,senator,male,kansas
-471,Pat Roberts,SenPatRoberts,republican,senator,male,kansas
-472,Mitch McConnell,McConnellPress,republican,senate-majority-leader,male,kentucky
-473,Rand Paul,RandPaul,republican,senator,male,kentucky
-474,Bill Cassidy,SenatorCassidy,republican,senator,male,louisiana
-475,John Kennedy,JohnKennedyLA,republican,senator,male,louisiana
-476,Edward Markey,SenMarkey,democrat,senator,male,massachusetts
-477,Elizabeth Warren,SenWarren,democrat,senator,female,massachusetts
-478,Benjamin Cardin,SenatorCardin,democrat,senator,male,maryland
-479,Chris Van Hollen,ChrisVanHollen,democrat,senator,male,maryland
-480,Angus King,SenAngusKing,independent,senator,male,maine
-481,Susan Collins,senatorcollins,republican,senator,female,maine
-482,Debbie Stabenow,SenStabenow,democrat,senator,female,michigan
-483,Gary Peters,SenGaryPeters,democrat,senator,male,michigan
-484,Tina Smith,SenTinaSmith,democrat,senator,female,minnesota
-485,Josh Hawley,HawleyMO,republican,senator,male,missouri
-486,Roger Wicker,SenatorWicker,republican,senator,male,mississippi
-487,Cindy Hyde-Smith,SenHydeSmith,republican,senator,female,mississippi
-488,Jon Tester,SenatorTester,democrat,senator,male,montana
-489,Steve Daines,SteveDaines,republican,senator,male,montana
-490,Richard Burr,SenatorBurr,republican,senator,male,north-carolina
-491,Thom Tillis,SenThomTillis,republican,senator,male,north-carolina
-492,Kevin Cramer,SenKevinCramer,republican,senator,male,north-dakota
-493,John Hoeven,SenJohnHoeven,republican,senator,male,north-dakota
-494,Ben Sasse,SenSasse,republican,senator,male,nebraska
-495,Amy Klobuchar,amyklobuchar,democrat,senator,female,minnesota
-496,Roy Blunt,RoyBlunt,republican,senator,male,missouri
-497,Deb Fischer,SenatorFischer,republican,senator,female,nebraska
-498,Robert Menendez,SenatorMenendez,democrat,senator,male,new-jersey
-499,Martin Heinrich,MartinHeinrich,democrat,senator,male,new-mexico
-500,Tom Udall,SenatorTomUdall,democrat,senator,male,new-mexico
-501,Catherine Cortez-Masto,CatherineForNV,democrat,senator,female,nevada
-502,Jacky Rosen,SenJackyRosen,democrat,senator,female,nevada
-503,Charles Schumer,SenSchumer,democrat,senate-minority-leader,male,new-york
-504,Kirsten Gillibrand,SenGillibrand,democrat,senator,female,new-york
-505,Rob Portman,robportman,republican,senator,male,ohio
-506,James Inhofe,jiminhofe,republican,senator,male,oklahoma
-507,Sherrod Brown,SenSherrodBrown,democrat,senator,male,ohio
-508,Jeff Merkley,SenJeffMerkley,democrat,senator,male,oregon
-509,James Lankford,SenatorLankford,republican,senator,male,oklahoma
-510,Patrick Toomey,SenToomey,republican,senator,male,pennsylvania
-511,Ron Wyden,RonWyden,democrat,senator,male,oregon
-512,Robert Casey,SenBobCasey,democrat,senator,male,pennsylvania
-513,Jack Reed,SenJackReed,democrat,senator,male,rhode-island
-514,Sheldon Whitehouse,SenWhitehouse,democrat,senator,male,rhode-island
-515,Lindsey Graham,LindseyGrahamSC,republican,senator,male,south-carolina
-516,Tim Scott,SenatorTimScott,republican,senator,male,south-carolina
-517,John Thune,SenJohnThune,republican,senator,male,south-dakota
-518,Mike Rounds,SenatorRounds,republican,senator,male,south-dakota
-519,Marsha Blackburn,MarshaBlackburn,republican,senator,female,tennessee
-520,Lamar Alexander,SenAlexander,republican,senator,male,tennessee
-521,John Cornyn,JohnCornyn,republican,senate-majority-whip,male,texas
-522,Ted Cruz,SenTedCruz,republican,senator,male,texas
-523,Mike Lee,SenMikeLee,republican,senator,male,utah
-524,Mitt Romney,SenatorRomney,republican,senator,male,utah
-525,Mark Warner,MarkWarner,democrat,senator,male,virginia
-526,Tim Kaine,timkaine,democrat,senator,male,virginia
-527,Patrick Leahy,SenatorLeahy,democrat,senator,male,vermont
-528,Bernard Sanders,SenSanders,independent,senator,male,vermont
-529,Maria Cantwell,SenatorCantwell,democrat,senator,female,washington
-530,Patty Murray,PattyMurray,democrat,senator,female,washington
-531,Ron Johnson,SenRonJohnson,republican,senator,male,wisconsin
-532,Tammy Baldwin,tammybaldwin,democrat,senator,female,wisconsin
-533,Joe Manchin,Sen_JoeManchin,democrat,senator,male,west-virginia
-534,Shelley Capito,SenCapito,republican,senator,female,west-virginia
-535,John Barrasso,SenJohnBarrasso,republican,senator,male,wyoming
-536,Michael Enzi,SenatorEnzi,republican,senator,male,wyoming
-537,Jeanne Shaheen,SenatorShaheen,democrat,senator,female,new-hampshire
-538,Margaret Hassan,Maggie_Hassan,democrat,senator,female,new-hampshire
-539,Cory Booker,CoryBooker,democrat,senator,male,new-jersey
+,name,twitter,party,title,gender,state,district
+0,Sherrod Brown,SenSherrodBrown,Democrat,senator,M,ohio,
+1,Maria Cantwell,SenatorCantwell,Democrat,senator,F,washington,
+2,Benjamin L. Cardin,SenatorCardin,Democrat,senator,M,maryland,
+3,Thomas R. Carper,SenatorCarper,Democrat,senator,M,delaware,
+4,"Robert P. Casey, Jr.",SenBobCasey,Democrat,senator,M,pennsylvania,
+5,Dianne Feinstein,SenFeinstein,Democrat,senator,F,california,
+6,Amy Klobuchar,SenAmyKlobuchar,Democrat,senator,F,minnesota,
+7,Robert Menendez,SenatorMenendez,Democrat,senator,M,new jersey,
+8,Bernard Sanders,SenSanders,Independent,senator,M,VT,
+9,Debbie Stabenow,SenStabenow,Democrat,senator,F,michigan,
+10,Jon Tester,SenatorTester,Democrat,senator,M,montana,
+11,Sheldon Whitehouse,SenWhitehouse,Democrat,senator,M,rhode island,
+12,John Barrasso,SenJohnBarrasso,Republican,senator,M,Wyoming,
+13,Roger F. Wicker,SenatorWicker,Republican,senator,M,mississippi,
+14,Lamar Alexander,SenAlexander,Republican,senator,M,tennessee,
+15,Susan M. Collins,SenatorCollins,Republican,senator,F,maine,
+16,John Cornyn,JohnCornyn,Republican,senator,M,texas,
+17,Richard J. Durbin,SenatorDurbin,Democrat,senator,M,illinois,
+18,Michael B. Enzi,SenatorEnzi,Republican,senator,M,Wyoming,
+19,Lindsey Graham,GrahamBlog,Republican,senator,M,south carolina,
+20,James M. Inhofe,InhofePress,Republican,senator,M,oklahoma,
+21,Mitch McConnell,McConnellPress,Republican,senator,M,kentucky,
+22,Jeff Merkley,SenJeffMerkley,Democrat,senator,M,oregon,
+23,Jack Reed,SenJackReed,Democrat,senator,M,rhode island,
+24,James E. Risch,SenatorRisch,Republican,senator,M,idaho,
+25,Pat Roberts,SenPatRoberts,Republican,senator,M,kansas,
+26,Jeanne Shaheen,SenatorShaheen,Democrat,senator,F,new hampshire,
+27,Tom Udall,SenatorTomUdall,Democrat,senator,M,new mexico,
+28,Mark R. Warner,MarkWarner,Democrat,senator,M,vermont,
+29,Kirsten E. Gillibrand,GillibrandNY,Democrat,senator,F,new york,
+30,Christopher A. Coons,ChrisCoons,Democrat,senator,M,delaware,
+31,"Joe Manchin, III",Sen_JoeManchin,Democrat,senator,M,west virginia,
+32,Robert B. Aderholt,Robert_Aderholt,Republican,house of representatives,M,alabama,4.0
+33,Justin Amash,,Libertarian,house of representatives,M,michigan,3.0
+34,Tammy Baldwin,SenatorBaldwin,Democrat,senator,F,wisconsin,
+35,Karen Bass,RepKarenBass,Democrat,house of representatives,F,california,37.0
+36,Michael F. Bennet,SenatorBennet,Democrat,senator,M,colorado,
+37,Gus M. Bilirakis,RepGusBilirakis,Republican,house of representatives,M,florida,12.0
+38,Rob Bishop,RepRobBishop,Republican,house of representatives,M,utah,1.0
+39,"Sanford D. Bishop, Jr.",SanfordBishop,Democrat,house of representatives,M,georgia,2.0
+40,Marsha Blackburn,MarshaBlackburn,Republican,senator,F,tennessee,
+41,Earl Blumenauer,BlumenauerMedia,Democrat,house of representatives,M,oregon,3.0
+42,Richard Blumenthal,SenBlumenthal,Democrat,senator,M,connecticut,
+43,Roy Blunt,RoyBlunt,Republican,senator,M,missouri,
+44,John Boozman,JohnBoozman,Republican,senator,M,arkansas,
+45,Kevin Brady,RepKevinBrady,Republican,house of representatives,M,texas,8.0
+46,Mo Brooks,RepMoBrooks,Republican,house of representatives,M,alabama,5.0
+47,Vern Buchanan,VernBuchanan,Republican,house of representatives,M,florida,16.0
+48,Larry Bucshon,RepLarryBucshon,Republican,house of representatives,M,indiana,8.0
+49,Michael C. Burgess,MichaelCBurgess,Republican,house of representatives,M,texas,26.0
+50,Richard Burr,SenatorBurr,Republican,senator,M,north carolina,
+51,G. K. Butterfield,GKButterfield,Democrat,house of representatives,M,north carolina,1.0
+52,Ken Calvert,KenCalvert,Republican,house of representatives,M,california,42.0
+53,Shelley Moore Capito,SenCapito,Republican,senator,F,west virginia,
+54,André Carson,RepAndreCarson,Democrat,house of representatives,M,indiana,7.0
+55,John R. Carter,JudgeCarter,Republican,house of representatives,M,texas,31.0
+56,Bill Cassidy,SenBillCassidy,Republican,senator,M,louisiana,
+57,Kathy Castor,USRepKCastor,Democrat,house of representatives,F,florida,14.0
+58,Steve Chabot,RepSteveChabot,Republican,house of representatives,M,ohio,1.0
+59,Judy Chu,RepJudyChu,Democrat,house of representatives,F,california,27.0
+60,David N. Cicilline,RepCicilline,Democrat,house of representatives,M,rhode island,1.0
+61,Yvette D. Clarke,RepYvetteClarke,Democrat,house of representatives,F,new york,9.0
+62,Wm. Lacy Clay,,Democrat,house of representatives,M,missouri,1.0
+63,Emanuel Cleaver,RepCleaver,Democrat,house of representatives,M,missouri,5.0
+64,James E. Clyburn,WhipClyburn,Democrat,house of representatives,M,south carolina,6.0
+65,Steve Cohen,RepCohen,Democrat,house of representatives,M,tennessee,9.0
+66,Tom Cole,TomColeOK04,Republican,house of representatives,M,oklahoma,4.0
+67,K. Michael Conaway,ConawayTX11,Republican,house of representatives,M,texas,11.0
+68,Gerald E. Connolly,GerryConnolly,Democrat,house of representatives,M,vermont,11.0
+69,Jim Cooper,RepJimCooper,Democrat,house of representatives,M,tennessee,5.0
+70,Jim Costa,RepJimCosta,Democrat,house of representatives,M,california,16.0
+71,Joe Courtney,RepJoeCourtney,Democrat,house of representatives,M,connecticut,2.0
+72,Mike Crapo,MikeCrapo,Republican,senator,M,idaho,
+73,"Eric A. ""Rick"" Crawford",RepRickCrawford,Republican,house of representatives,M,arkansas,1.0
+74,Henry Cuellar,RepCuellar,Democrat,house of representatives,M,texas,28.0
+75,Danny K. Davis,RepDannyDavis,Democrat,house of representatives,M,illinois,7.0
+76,Susan A. Davis,RepSusanDavis,Democrat,house of representatives,F,california,53.0
+77,Peter A. DeFazio,RepPeterDeFazio,Democrat,house of representatives,M,oregon,4.0
+78,Diana DeGette,RepDianaDeGette,Democrat,house of representatives,F,colorado,1.0
+79,Rosa L. DeLauro,RosaDeLauro,Democrat,house of representatives,F,connecticut,3.0
+80,Scott DesJarlais,DesJarlaisTN04,Republican,house of representatives,M,tennessee,4.0
+81,Theodore E. Deutch,RepTedDeutch,Democrat,house of representatives,M,florida,22.0
+82,Mario Diaz-Balart,MarioDB,Republican,house of representatives,M,florida,25.0
+83,Lloyd Doggett,RepLloydDoggett,Democrat,house of representatives,M,texas,35.0
+84,Michael F. Doyle,USRepMikeDoyle,Democrat,house of representatives,M,pennsylvania,18.0
+85,Jeff Duncan,RepJeffDuncan,Republican,house of representatives,M,south carolina,3.0
+86,Eliot L. Engel,RepEliotEngel,Democrat,house of representatives,M,new york,16.0
+87,Anna G. Eshoo,RepAnnaEshoo,Democrat,house of representatives,F,california,18.0
+88,"Charles J. ""Chuck"" Fleischmann",RepChuck,Republican,house of representatives,M,tennessee,3.0
+89,Bill Flores,RepBillFlores,Republican,house of representatives,M,texas,17.0
+90,Jeff Fortenberry,JeffFortenberry,Republican,house of representatives,M,nebraska,1.0
+91,Virginia Foxx,VirginiaFoxx,Republican,house of representatives,F,north carolina,5.0
+92,Marcia L. Fudge,RepMarciaFudge,Democrat,house of representatives,F,ohio,11.0
+93,John Garamendi,RepGaramendi,Democrat,house of representatives,M,california,3.0
+94,Cory Gardner,SenCoryGardner,Republican,senator,M,colorado,
+95,Bob Gibbs,RepBobGibbs,Republican,house of representatives,M,ohio,7.0
+96,Louie Gohmert,RepLouieGohmert,Republican,house of representatives,M,texas,1.0
+97,Paul A. Gosar,RepGosar,Republican,house of representatives,M,arizona,4.0
+98,Kay Granger,RepKayGranger,Republican,house of representatives,F,texas,12.0
+99,Chuck Grassley,ChuckGrassley,Republican,senator,M,iowa,
+100,Sam Graves,RepSamGraves,Republican,house of representatives,M,missouri,6.0
+101,Tom Graves,RepTomGraves,Republican,house of representatives,M,georgia,14.0
+102,Al Green,RepAlGreen,Democrat,house of representatives,M,texas,9.0
+103,H. Morgan Griffith,RepMGriffith,Republican,house of representatives,M,vermont,9.0
+104,Raúl M. Grijalva,RepraulGrijalva,Democrat,house of representatives,M,arizona,3.0
+105,Brett Guthrie,RepGuthrie,Republican,house of representatives,M,kentucky,2.0
+106,Andy Harris,RepAndyHarrisMD,Republican,house of representatives,M,maryland,1.0
+107,Vicky Hartzler,RepHartzler,Republican,house of representatives,F,missouri,4.0
+108,Alcee L. Hastings,RepHastingsFL,Democrat,house of representatives,M,florida,20.0
+109,Martin Heinrich,MartinHeinrich,Democrat,senator,M,new mexico,
+110,Jaime Herrera Beutler,HerreraBeutler,Republican,house of representatives,F,washington,3.0
+111,Brian Higgins,RepBrianHiggins,Democrat,house of representatives,M,new york,26.0
+112,James A. Himes,JAHimes,Democrat,house of representatives,M,connecticut,4.0
+113,Mazie K. Hirono,MazieHirono,Democrat,senator,F,hawaii,
+114,John Hoeven,SenJohnHoeven,Republican,senator,M,north dakota,
+115,Steny H. Hoyer,LeaderHoyer,Democrat,house of representatives,M,maryland,5.0
+116,Bill Huizenga,RepHuizenga,Republican,house of representatives,M,michigan,2.0
+117,Sheila Jackson Lee,JacksonLeeTX18,Democrat,house of representatives,F,texas,18.0
+118,Bill Johnson,RepBillJohnson,Republican,house of representatives,M,ohio,6.0
+119,Eddie Bernice Johnson,RepEBJ,Democrat,house of representatives,F,texas,30.0
+120,"Henry C. ""Hank"" Johnson, Jr.",RepHankJohnson,Democrat,house of representatives,M,georgia,4.0
+121,Ron Johnson,SenRonJohnson,Republican,senator,M,wisconsin,
+122,Jim Jordan,Jim_Jordan,Republican,house of representatives,M,ohio,4.0
+123,Marcy Kaptur,RepMarcyKaptur,Democrat,house of representatives,F,ohio,9.0
+124,William R. Keating,USRepKeating,Democrat,house of representatives,M,massachusetts,9.0
+125,Mike Kelly,MikeKellyPA,Republican,house of representatives,M,pennsylvania,16.0
+126,Ron Kind,RepRonKind,Democrat,house of representatives,M,wisconsin,3.0
+127,Peter T. King,RepPeteKing,Republican,house of representatives,M,new york,2.0
+128,Steve King,SteveKingIA,Republican,house of representatives,M,iowa,4.0
+129,Adam Kinzinger,RepKinzinger,Republican,house of representatives,M,illinois,16.0
+130,Doug Lamborn,RepDLamborn,Republican,house of representatives,M,colorado,5.0
+131,James R. Langevin,JimLangevin,Democrat,house of representatives,M,rhode island,2.0
+132,James Lankford,SenatorLankford,Republican,senator,M,oklahoma,
+133,Rick Larsen,RepRickLarsen,Democrat,house of representatives,M,washington,2.0
+134,John B. Larson,RepJohnLarson,Democrat,house of representatives,M,connecticut,1.0
+135,Robert E. Latta,BobLatta,Republican,house of representatives,M,ohio,5.0
+136,Patrick J. Leahy,SenatorLeahy,Democrat,senator,M,VT,
+137,Barbara Lee,RepBarbaraLee,Democrat,house of representatives,F,california,13.0
+138,Mike Lee,SenMikeLee,Republican,senator,M,utah,
+139,John Lewis,RepJohnLewis,Democrat,house of representatives,M,georgia,5.0
+140,Daniel Lipinski,RepLipinski,Democrat,house of representatives,M,illinois,3.0
+141,David Loebsack,DaveLoebsack,Democrat,house of representatives,M,iowa,2.0
+142,Zoe Lofgren,RepZoeLofgren,Democrat,house of representatives,F,california,19.0
+143,Billy Long,USRepLong,Republican,house of representatives,M,missouri,7.0
+144,Nita M. Lowey,NitaLowey,Democrat,house of representatives,F,new york,17.0
+145,Frank D. Lucas,RepFrankLucas,Republican,house of representatives,M,oklahoma,3.0
+146,Blaine Luetkemeyer,RepBlaine,Republican,house of representatives,M,missouri,3.0
+147,Ben Ray Luján,RepBenRayLujan,Democrat,house of representatives,M,new mexico,3.0
+148,Stephen F. Lynch,RepStephenLynch,Democrat,house of representatives,M,massachusetts,8.0
+149,Carolyn B. Maloney,RepMaloney,Democrat,house of representatives,F,new york,12.0
+150,Kenny Marchant,RepKenMarchant,Republican,house of representatives,M,texas,24.0
+151,Edward J. Markey,SenMarkey,Democrat,senator,M,massachusetts,
+152,Doris O. Matsui,DorisMatsui,Democrat,house of representatives,F,california,6.0
+153,Kevin McCarthy,GOPLeader,Republican,house of representatives,M,california,23.0
+154,Michael T. McCaul,RepMcCaul,Republican,house of representatives,M,texas,10.0
+155,Tom McClintock,RepMcClintock,Republican,house of representatives,M,california,4.0
+156,Betty McCollum,BettyMcCollum04,Democrat,house of representatives,F,minnesota,4.0
+157,James P. McGovern,RepMcGovern,Democrat,house of representatives,M,massachusetts,2.0
+158,Patrick T. McHenry,PatrickMcHenry,Republican,house of representatives,M,north carolina,10.0
+159,David B. McKinley,RepMcKinley,Republican,house of representatives,M,west virginia,1.0
+160,Cathy McMorris Rodgers,CathyMcMorris,Republican,house of representatives,F,washington,5.0
+161,Jerry McNerney,RepMcNerney,Democrat,house of representatives,M,california,9.0
+162,Gregory W. Meeks,RepGregoryMeeks,Democrat,house of representatives,M,new york,5.0
+163,Gwen Moore,RepGwenMoore,Democrat,house of representatives,F,wisconsin,4.0
+164,Jerry Moran,JerryMoran,Republican,senator,M,kansas,
+165,Lisa Murkowski,LisaMurkowski,Republican,senator,F,alaska,
+166,Christopher Murphy,senmurphyoffice,Democrat,senator,M,connecticut,
+167,Patty Murray,PattyMurray,Democrat,senator,F,washington,
+168,Jerrold Nadler,RepJerryNadler,Democrat,house of representatives,M,new york,10.0
+169,Grace F. Napolitano,GraceNapolitano,Democrat,house of representatives,F,california,32.0
+170,Richard E. Neal,RepRichardNeal,Democrat,house of representatives,M,massachusetts,1.0
+171,Eleanor Holmes Norton,EleanorNorton,Democrat,house of representatives,F,DC,0.0
+172,Devin Nunes,RepDevinNunes,Republican,house of representatives,M,california,22.0
+173,Pete Olson,RepPeteOlson,Republican,house of representatives,M,texas,22.0
+174,Steven M. Palazzo,CongPalazzo,Republican,house of representatives,M,mississippi,4.0
+175,"Frank Pallone, Jr.",FrankPallone,Democrat,house of representatives,M,new jersey,6.0
+176,"Bill Pascrell, Jr.",BillPascrell,Democrat,house of representatives,M,new jersey,9.0
+177,Rand Paul,RandPaul,Republican,senator,M,kentucky,
+178,Nancy Pelosi,SpeakerPelosi,Democrat,house of representatives,F,california,12.0
+179,Ed Perlmutter,RepPerlmutter,Democrat,house of representatives,M,colorado,7.0
+180,Gary C. Peters,SenGaryPeters,Democrat,senator,M,michigan,
+181,Collin C. Peterson,,Democrat,house of representatives,M,minnesota,7.0
+182,Chellie Pingree,ChelliePingree,Democrat,house of representatives,F,maine,1.0
+183,Rob Portman,SenRobPortman,Republican,senator,M,ohio,
+184,Bill Posey,CongBillPosey,Republican,house of representatives,M,florida,8.0
+185,David E. Price,RepDavidEPrice,Democrat,house of representatives,M,north carolina,4.0
+186,Mike Quigley,RepMikeQuigley,Democrat,house of representatives,M,illinois,5.0
+187,Tom Reed,RepTomReed,Republican,house of representatives,M,new york,23.0
+188,Cedric L. Richmond,RepRichmond,Democrat,house of representatives,M,louisiana,2.0
+189,Martha Roby,RepMarthaRoby,Republican,house of representatives,F,alabama,2.0
+190,David P. Roe,DrPhilRoe,Republican,house of representatives,M,tennessee,1.0
+191,Harold Rogers,RepHalRogers,Republican,house of representatives,M,kentucky,5.0
+192,Mike Rogers,RepMikeRogersAL,Republican,house of representatives,M,alabama,3.0
+193,Lucille Roybal-Allard,RepRoybalAllard,Democrat,house of representatives,F,california,40.0
+194,Marco Rubio,SenRubioPress,Republican,senator,M,florida,
+195,C. A. Dutch Ruppersberger,Call_Me_Dutch,Democrat,house of representatives,M,maryland,2.0
+196,Bobby L. Rush,RepBobbyRush,Democrat,house of representatives,M,illinois,1.0
+197,Tim Ryan,RepTimRyan,Democrat,house of representatives,M,ohio,13.0
+198,Gregorio Kilili Camacho Sablan,Kilili_Sablan,Democrat,house of representatives,M,MP,0.0
+199,John P. Sarbanes,RepSarbanes,Democrat,house of representatives,M,maryland,3.0
+200,Steve Scalise,SteveScalise,Republican,house of representatives,M,louisiana,1.0
+201,Janice D. Schakowsky,JanSchakowsky,Democrat,house of representatives,F,illinois,9.0
+202,Adam B. Schiff,RepAdamSchiff,Democrat,house of representatives,M,california,28.0
+203,Kurt Schrader,RepSchrader,Democrat,house of representatives,M,oregon,5.0
+204,Charles E. Schumer,SenSchumer,Democrat,senator,M,new york,
+205,David Schweikert,RepDavid,Republican,house of representatives,M,arizona,6.0
+206,Austin Scott,AustinScottGA08,Republican,house of representatives,M,georgia,8.0
+207,David Scott,RepDavidScott,Democrat,house of representatives,M,georgia,13.0
+208,"Robert C. ""Bobby"" Scott",BobbyScott,Democrat,house of representatives,M,vermont,3.0
+209,Tim Scott,SenatorTimScott,Republican,senator,M,south carolina,
+210,"F. James Sensenbrenner, Jr.",JimPressOffice,Republican,house of representatives,M,wisconsin,5.0
+211,José E. Serrano,RepJoseSerrano,Democrat,house of representatives,M,new york,15.0
+212,Terri A. Sewell,RepTerriSewell,Democrat,house of representatives,F,alabama,7.0
+213,Richard C. Shelby,SenShelby,Republican,senator,M,alabama,
+214,Brad Sherman,BradSherman,Democrat,house of representatives,M,california,30.0
+215,John Shimkus,RepShimkus,Republican,house of representatives,M,illinois,15.0
+216,Michael K. Simpson,CongMikeSimpson,Republican,house of representatives,M,idaho,2.0
+217,Albio Sires,RepSires,Democrat,house of representatives,M,new jersey,8.0
+218,Adam Smith,RepAdamSmith,Democrat,house of representatives,M,washington,9.0
+219,Adrian Smith,RepAdrianSmith,Republican,house of representatives,M,nebraska,3.0
+220,Christopher H. Smith,RepChrisSmith,Republican,house of representatives,M,new jersey,4.0
+221,Jackie Speier,RepSpeier,Democrat,house of representatives,F,california,14.0
+222,Steve Stivers,RepSteveStivers,Republican,house of representatives,M,ohio,15.0
+223,Linda T. Sánchez,RepLindaSanchez,Democrat,house of representatives,F,california,38.0
+224,Bennie G. Thompson,BennieGThompson,Democrat,house of representatives,M,mississippi,2.0
+225,Mike Thompson,RepThompson,Democrat,house of representatives,M,california,5.0
+226,Glenn Thompson,CongressmanGT,Republican,house of representatives,M,pennsylvania,15.0
+227,Mac Thornberry,MacTXPress,Republican,house of representatives,M,texas,13.0
+228,John Thune,SenJohnThune,Republican,senator,M,south dakota,
+229,Scott R. Tipton,RepTipton,Republican,house of representatives,M,colorado,3.0
+230,Paul Tonko,RepPaulTonko,Democrat,house of representatives,M,new york,20.0
+231,Patrick J. Toomey,SenToomey,Republican,senator,M,pennsylvania,
+232,Michael R. Turner,RepMikeTurner,Republican,house of representatives,M,ohio,10.0
+233,Fred Upton,RepFredUpton,Republican,house of representatives,M,michigan,6.0
+234,Chris Van Hollen,ChrisVanHollen,Democrat,senator,M,maryland,
+235,Nydia M. Velázquez,NydiaVelazquez,Democrat,house of representatives,F,new york,7.0
+236,Peter J. Visclosky,RepVisclosky,Democrat,house of representatives,M,indiana,1.0
+237,Tim Walberg,RepWalberg,Republican,house of representatives,M,michigan,7.0
+238,Greg Walden,RepGregWalden,Republican,house of representatives,M,oregon,2.0
+239,Debbie Wasserman Schultz,RepDWStweets,Democrat,house of representatives,F,florida,23.0
+240,Maxine Waters,RepMaxineWaters,Democrat,house of representatives,F,california,43.0
+241,Daniel Webster,RepWebster,Republican,house of representatives,M,florida,11.0
+242,Peter Welch,PeterWelch,Democrat,house of representatives,M,VT,0.0
+243,Joe Wilson,RepJoeWilson,Republican,house of representatives,M,south carolina,2.0
+244,Frederica S. Wilson,RepWilson,Democrat,house of representatives,F,florida,24.0
+245,Robert J. Wittman,RobWittman,Republican,house of representatives,M,vermont,1.0
+246,Steve Womack,Rep_SteveWomack,Republican,house of representatives,M,arkansas,3.0
+247,Rob Woodall,RepRobWoodall,Republican,house of representatives,M,georgia,7.0
+248,Ron Wyden,RonWyden,Democrat,senator,M,oregon,
+249,John A. Yarmuth,RepJohnYarmuth,Democrat,house of representatives,M,kentucky,3.0
+250,Don Young,RepDonYoung,Republican,house of representatives,M,alaska,0.0
+251,Todd Young,SenToddYoung,Republican,senator,M,indiana,
+252,Mark E. Amodei,MarkAmodeiNV2,Republican,house of representatives,M,nevada,2.0
+253,Suzanne Bonamici,RepBonamici,Democrat,house of representatives,F,oregon,1.0
+254,Suzan K. DelBene,RepDelBene,Democrat,house of representatives,F,washington,1.0
+255,Thomas Massie,RepThomasMassie,Republican,house of representatives,M,kentucky,4.0
+256,"Donald M. Payne, Jr.",RepDonaldPayne,Democrat,house of representatives,M,new jersey,10.0
+257,Brian Schatz,SenBrianSchatz,Democrat,senator,M,hawaii,
+258,Bill Foster,RepBillFoster,Democrat,house of representatives,M,illinois,11.0
+259,Dina Titus,RepDinaTitus,Democrat,house of representatives,F,nevada,1.0
+260,Tom Cotton,SenTomCotton,Republican,senator,M,arkansas,
+261,Kyrsten Sinema,SenatorSinema,Democrat,senator,F,arizona,
+262,Doug LaMalfa,RepLaMalfa,Republican,house of representatives,M,california,1.0
+263,Jared Huffman,RepHuffman,Democrat,house of representatives,M,california,2.0
+264,Ami Bera,RepBera,Democrat,house of representatives,M,california,7.0
+265,Paul Cook,RepPaulCook,Republican,house of representatives,M,california,8.0
+266,Eric Swalwell,RepSwalwell,Democrat,house of representatives,M,california,15.0
+267,Julia Brownley,RepBrownley,Democrat,house of representatives,F,california,26.0
+268,Tony Cárdenas,RepCardenas,Democrat,house of representatives,M,california,29.0
+269,Raul Ruiz,RepRaulRuizMD,Democrat,house of representatives,M,california,36.0
+270,Mark Takano,RepMarkTakano,Democrat,house of representatives,M,california,41.0
+271,Alan S. Lowenthal,RepLowenthal,Democrat,house of representatives,M,california,47.0
+272,Juan Vargas,RepJuanVargas,Democrat,house of representatives,M,california,51.0
+273,Scott H. Peters,RepScottPeters,Democrat,house of representatives,M,california,52.0
+274,Ted S. Yoho,RepTedYoho,Republican,house of representatives,M,florida,3.0
+275,Lois Frankel,RepLoisFrankel,Democrat,house of representatives,F,florida,21.0
+276,Doug Collins,RepDougCollins,Republican,house of representatives,M,georgia,9.0
+277,Tulsi Gabbard,TulsiPress,Democrat,house of representatives,F,hawaii,2.0
+278,Tammy Duckworth,SenDuckworth,Democrat,senator,F,illinois,
+279,Rodney Davis,RodneyDavis,Republican,house of representatives,M,illinois,13.0
+280,Cheri Bustos,RepCheri,Democrat,house of representatives,F,illinois,17.0
+281,Jackie Walorski,RepWalorski,Republican,house of representatives,F,indiana,2.0
+282,Susan W. Brooks,SusanWBrooks,Republican,house of representatives,F,indiana,5.0
+283,Andy Barr,RepAndyBarr,Republican,house of representatives,M,kentucky,6.0
+284,Elizabeth Warren,SenWarren,Democrat,senator,F,massachusetts,
+285,Joseph P. Kennedy III,RepJoeKennedy,Democrat,house of representatives,M,massachusetts,4.0
+286,"Angus S. King, Jr.",SenAngusKing,Independent,senator,M,maine,
+287,Daniel T. Kildee,RepDanKildee,Democrat,house of representatives,M,michigan,5.0
+288,Ann Wagner,RepAnnWagner,Republican,house of representatives,F,missouri,2.0
+289,Steve Daines,SteveDaines,Republican,senator,M,montana,
+290,Richard Hudson,RepRichHudson,Republican,house of representatives,M,north carolina,8.0
+291,George Holding,RepHolding,Republican,house of representatives,M,north carolina,2.0
+292,Kevin Cramer,SenKevinCramer,Republican,senator,M,north dakota,
+293,Deb Fischer,SenatorFischer,Republican,senator,F,nebraska,
+294,Ann M. Kuster,RepAnnieKuster,Democrat,house of representatives,F,new hampshire,2.0
+295,Grace Meng,RepGraceMeng,Democrat,house of representatives,F,new york,6.0
+296,Hakeem S. Jeffries,RepJeffries,Democrat,house of representatives,M,new york,8.0
+297,Sean Patrick Maloney,RepSeanMaloney,Democrat,house of representatives,M,new york,18.0
+298,Brad R. Wenstrup,RepBradWenstrup,Republican,house of representatives,M,ohio,2.0
+299,Joyce Beatty,RepBeatty,Democrat,house of representatives,F,ohio,3.0
+300,David P. Joyce,RepDaveJoyce,Republican,house of representatives,M,ohio,14.0
+301,Markwayne Mullin,RepMullin,Republican,house of representatives,M,oklahoma,2.0
+302,Scott Perry,RepScottPerry,Republican,house of representatives,M,pennsylvania,10.0
+303,Matt Cartwright,RepCartwright,Democrat,house of representatives,M,pennsylvania,8.0
+304,Tom Rice,RepTomRice,Republican,house of representatives,M,south carolina,7.0
+305,Ted Cruz,SenTedCruz,Republican,senator,M,texas,
+306,"Randy K. Weber, Sr.",TXRandy14,Republican,house of representatives,M,texas,14.0
+307,Joaquin Castro,JoaquinCastrotx,Democrat,house of representatives,M,texas,20.0
+308,Roger Williams,RepRWilliams,Republican,house of representatives,M,texas,25.0
+309,Marc A. Veasey,RepVeasey,Democrat,house of representatives,M,texas,33.0
+310,Filemon Vela,RepFilemonVela,Democrat,house of representatives,M,texas,34.0
+311,Chris Stewart,RepChrisStewart,Republican,house of representatives,M,utah,2.0
+312,Tim Kaine,,Democrat,senator,M,vermont,
+313,Derek Kilmer,RepDerekKilmer,Democrat,house of representatives,M,washington,6.0
+314,Denny Heck,RepDennyHeck,Democrat,house of representatives,M,washington,10.0
+315,Mark Pocan,RepMarkPocan,Democrat,house of representatives,M,wisconsin,2.0
+316,Robin L. Kelly,RepRobinKelly,Democrat,house of representatives,F,illinois,2.0
+317,Jason Smith,RepJasonSmith,Republican,house of representatives,M,missouri,8.0
+318,Cory A. Booker,SenBooker,Democrat,senator,M,new jersey,
+319,Katherine M. Clark,RepKClark,Democrat,house of representatives,F,massachusetts,5.0
+320,Bradley Byrne,RepByrne,Republican,house of representatives,M,alabama,1.0
+321,Donald Norcross,DonaldNorcross,Democrat,house of representatives,M,new jersey,1.0
+322,Alma S. Adams,RepAdams,Democrat,house of representatives,F,north carolina,12.0
+323,Gary J. Palmer,USRepGaryPalmer,Republican,house of representatives,M,alabama,6.0
+324,J. French Hill,RepFrenchHill,Republican,house of representatives,M,arkansas,2.0
+325,Bruce Westerman,RepWesterman,Republican,house of representatives,M,arkansas,4.0
+326,Ruben Gallego,RepRubenGallego,Democrat,house of representatives,M,arizona,7.0
+327,Mark DeSaulnier,RepDeSaulnier,Democrat,house of representatives,M,california,11.0
+328,Pete Aguilar,reppeteaguilar,Democrat,house of representatives,M,california,31.0
+329,Ted Lieu,RepTedLieu,Democrat,house of representatives,M,california,33.0
+330,Norma J. Torres,NormaJTorres,Democrat,house of representatives,F,california,35.0
+331,Ken Buck,RepKenBuck,Republican,house of representatives,M,colorado,4.0
+332,"Earl L. ""Buddy"" Carter",RepBuddyCarter,Republican,house of representatives,M,georgia,1.0
+333,Jody B. Hice,congressmanhice,Republican,house of representatives,M,georgia,10.0
+334,Barry Loudermilk,RepLoudermilk,Republican,house of representatives,M,georgia,11.0
+335,Rick W. Allen,reprickallen,Republican,house of representatives,M,georgia,12.0
+336,Mike Bost,RepBost,Republican,house of representatives,M,illinois,12.0
+337,Ralph Lee Abraham,RepAbraham,Republican,house of representatives,M,louisiana,5.0
+338,Garret Graves,RepGarretGraves,Republican,house of representatives,M,louisiana,6.0
+339,Seth Moulton,teammoulton,Democrat,house of representatives,M,massachusetts,6.0
+340,John R. Moolenaar,RepMoolenaar,Republican,house of representatives,M,michigan,4.0
+341,Debbie Dingell,RepDebDingell,Democrat,house of representatives,F,michigan,12.0
+342,Brenda L. Lawrence,RepLawrence,Democrat,house of representatives,F,michigan,14.0
+343,Tom Emmer,RepTomEmmer,Republican,house of representatives,M,minnesota,6.0
+344,David Rouzer,RepDavidRouzer,Republican,house of representatives,M,north carolina,7.0
+345,Bonnie Watson Coleman,RepBonnie,Democrat,house of representatives,F,new jersey,12.0
+346,Lee M. Zeldin,RepLeeZeldin,Republican,house of representatives,M,new york,1.0
+347,Kathleen M. Rice,RepKathleenRice,Democrat,house of representatives,F,new york,4.0
+348,Elise M. Stefanik,RepStefanik,Republican,house of representatives,F,new york,21.0
+349,John Katko,RepJohnKatko,Republican,house of representatives,M,new york,24.0
+350,Brendan F. Boyle,CongBoyle,Democrat,house of representatives,M,pennsylvania,2.0
+351,Will Hurd,hurdonthehill,Republican,house of representatives,M,texas,23.0
+352,Brian Babin,RepBrianBabin,Republican,house of representatives,M,texas,36.0
+353,"Donald S. Beyer, Jr.",RepDonBeyer,Democrat,house of representatives,M,vermont,8.0
+354,Stacey E. Plaskett,staceyplaskett,Democrat,house of representatives,F,VI,0.0
+355,Dan Newhouse,RepNewhouse,Republican,house of representatives,M,washington,4.0
+356,Glenn Grothman,RepGrothman,Republican,house of representatives,M,wisconsin,6.0
+357,Alexander X. Mooney,RepAlexMooney,Republican,house of representatives,M,west virginia,2.0
+358,Aumua Amata Coleman Radewagen,RepAmata,Republican,house of representatives,F,AS,0.0
+359,Dan Sullivan,SenDanSullivan,Republican,senator,M,alaska,
+360,David Perdue,sendavidperdue,Republican,senator,M,georgia,
+361,Joni Ernst,SenJoniErnst,Republican,senator,F,iowa,
+362,Thom Tillis,senthomtillis,Republican,senator,M,north carolina,
+363,Mike Rounds,SenatorRounds,Republican,senator,M,south dakota,
+364,Mark Walker,RepMarkWalker,Republican,house of representatives,M,north carolina,6.0
+365,Ben Sasse,SenSasse,Republican,senator,M,nebraska,
+366,Trent Kelly,reptrentkelly,Republican,house of representatives,M,mississippi,1.0
+367,Darin LaHood,RepLaHood,Republican,house of representatives,M,illinois,18.0
+368,Warren Davidson,WarrenDavidson,Republican,house of representatives,M,ohio,8.0
+369,James Comer,,Republican,house of representatives,M,kentucky,1.0
+370,Dwight Evans,RepDwightEvans,Democrat,house of representatives,M,pennsylvania,3.0
+371,Kamala D. Harris,SenKamalaHarris,Democrat,senator,F,california,
+372,John Kennedy,SenJohnKennedy,Republican,senator,M,louisiana,
+373,Margaret Wood Hassan,Senatorhassan,Democrat,senator,F,new hampshire,
+374,Catherine Cortez Masto,sencortezmasto,Democrat,senator,F,nevada,
+375,Bradley Scott Schneider,repschneider,Democrat,house of representatives,M,illinois,10.0
+376,Tom O’Halleran,repohalleran,Democrat,house of representatives,M,arizona,1.0
+377,Andy Biggs,RepAndyBiggsAZ,Republican,house of representatives,M,arizona,5.0
+378,Ro Khanna,RepRoKhanna,Democrat,house of representatives,M,california,17.0
+379,Jimmy Panetta,RepJimmyPanetta,Democrat,house of representatives,M,california,20.0
+380,Salud O. Carbajal,RepCarbajal,Democrat,house of representatives,M,california,24.0
+381,Nanette Diaz Barragán,RepBarragan,Democrat,house of representatives,F,california,44.0
+382,J. Luis Correa,reploucorrea,Democrat,house of representatives,M,california,46.0
+383,Lisa Blunt Rochester,RepLBR,Democrat,house of representatives,F,delaware,0.0
+384,Matt Gaetz,RepMattGaetz,Republican,house of representatives,M,florida,1.0
+385,Neal P. Dunn,drnealdunnfl2,Republican,house of representatives,M,florida,2.0
+386,John H. Rutherford,RepRutherfordFL,Republican,house of representatives,M,florida,4.0
+387,"Al Lawson, Jr.",RepAlLawsonJr,Democrat,house of representatives,M,florida,5.0
+388,Stephanie N. Murphy,RepStephMurphy,Democrat,house of representatives,F,florida,7.0
+389,Darren Soto,RepDarrenSoto,Democrat,house of representatives,M,florida,9.0
+390,Val Butler Demings,RepValDemings,Democrat,house of representatives,F,florida,10.0
+391,Charlie Crist,repcharliecrist,Democrat,house of representatives,M,florida,13.0
+392,Brian J. Mast,repbrianmast,Republican,house of representatives,M,florida,18.0
+393,Francis Rooney,RepRooney,Republican,house of representatives,M,florida,19.0
+394,A. Drew Ferguson IV,RepDrewFerguson,Republican,house of representatives,M,georgia,3.0
+395,Raja Krishnamoorthi,congressmanraja,Democrat,house of representatives,M,illinois,8.0
+396,Jim Banks,RepJimBanks,Republican,house of representatives,M,indiana,3.0
+397,Trey Hollingsworth,reptrey,Republican,house of representatives,M,indiana,9.0
+398,Roger W. Marshall,RepMarshall,Republican,house of representatives,M,kansas,1.0
+399,Clay Higgins,RepClayHiggins,Republican,house of representatives,M,louisiana,3.0
+400,Mike Johnson,RepMikeJohnson,Republican,house of representatives,M,louisiana,4.0
+401,Anthony G. Brown,RepAnthonyBrown,Democrat,house of representatives,M,maryland,4.0
+402,Jamie Raskin,repraskin,Democrat,house of representatives,M,maryland,8.0
+403,Jack Bergman,RepJackBergman,Republican,house of representatives,M,michigan,1.0
+404,Paul Mitchell,RepPaulMitchell,Republican,house of representatives,M,michigan,10.0
+405,Ted Budd,RepTedBudd,Republican,house of representatives,M,north carolina,13.0
+406,Don Bacon,repdonbacon,Republican,house of representatives,M,nebraska,2.0
+407,Josh Gottheimer,RepJoshG,Democrat,house of representatives,M,new jersey,5.0
+408,Jacky Rosen,SenJackyRosen,Democrat,senator,F,nevada,
+409,Thomas R. Suozzi,RepTomSuozzi,Democrat,house of representatives,M,new york,3.0
+410,Adriano Espaillat,RepEspaillat,Democrat,house of representatives,M,new york,13.0
+411,Brian K. Fitzpatrick,repbrianfitz,Republican,house of representatives,M,pennsylvania,1.0
+412,Lloyd Smucker,RepSmucker,Republican,house of representatives,M,pennsylvania,11.0
+413,Jenniffer González-Colón,repjenniffer,Republican,house of representatives,F,PR,0.0
+414,David Kustoff,repdavidkustoff,Republican,house of representatives,M,tennessee,8.0
+415,Vicente Gonzalez,RepGonzalez,Democrat,house of representatives,M,texas,15.0
+416,Jodey C. Arrington,RepArrington,Republican,house of representatives,M,texas,19.0
+417,A. Donald McEachin,RepMcEachin,Democrat,house of representatives,M,vermont,4.0
+418,Pramila Jayapal,RepJayapal,Democrat,house of representatives,F,washington,7.0
+419,Mike Gallagher,RepGallagher,Republican,house of representatives,M,wisconsin,8.0
+420,Liz Cheney,RepLizCheney,Republican,house of representatives,F,Wyoming,0.0
+421,Ron Estes,RepRonEstes,Republican,house of representatives,M,kansas,4.0
+422,Greg Gianforte,,Republican,house of representatives,M,montana,0.0
+423,Ralph Norman,RepRalphNorman,Republican,house of representatives,M,south carolina,5.0
+424,Jimmy Gomez,RepJimmyGomez,Democrat,house of representatives,M,california,34.0
+425,John R. Curtis,RepJohnCurtis,Republican,house of representatives,M,utah,3.0
+426,Doug Jones,sendougjones,Democrat,senator,M,alabama,
+427,Tina Smith,SenTinaSmith,Democrat,senator,F,minnesota,
+428,Cindy Hyde-Smith,SenHydeSmith,Republican,senator,F,mississippi,
+429,Conor Lamb,RepConorLamb,Democrat,house of representatives,M,pennsylvania,17.0
+430,Debbie Lesko,RepDLesko,Republican,house of representatives,F,arizona,8.0
+431,Michael Cloud,RepCloudTX,Republican,house of representatives,M,texas,27.0
+432,Troy Balderson,RepBalderson,Republican,house of representatives,M,ohio,12.0
+433,Kevin Hern,repkevinhern,Republican,house of representatives,M,oklahoma,1.0
+434,Joseph D. Morelle,RepJoeMorelle,Democrat,house of representatives,M,new york,25.0
+435,Mary Gay Scanlon,RepMGS,Democrat,house of representatives,F,pennsylvania,5.0
+436,Susan Wild,RepSusanWild,Democrat,house of representatives,F,pennsylvania,7.0
+437,Ed Case,RepEdCase,Democrat,house of representatives,M,hawaii,1.0
+438,Steven Horsford,RepHorsford,Democrat,house of representatives,M,nevada,4.0
+439,Ann Kirkpatrick,RepKirkpatrick,Democrat,house of representatives,F,arizona,2.0
+440,Greg Stanton,RepGregStanton,Democrat,house of representatives,M,arizona,9.0
+441,Josh Harder,RepJoshHarder,Democrat,house of representatives,M,california,10.0
+442,TJ Cox,RepTjCox,Democrat,house of representatives,M,california,21.0
+443,"Gilbert Ray Cisneros, Jr.",RepGilCisneros,Democrat,house of representatives,M,california,39.0
+444,Katie Porter,RepKatiePorter,Democrat,house of representatives,F,california,45.0
+445,Harley Rouda,RepHarley,Democrat,house of representatives,M,california,48.0
+446,Mike Levin,RepMikeLevin,Democrat,house of representatives,M,california,49.0
+447,Joe Neguse,RepJoeNeguse,Democrat,house of representatives,M,colorado,2.0
+448,Jason Crow,RepJasonCrow,Democrat,house of representatives,M,colorado,6.0
+449,Jahana Hayes,RepJahanaHayes,Democrat,house of representatives,F,connecticut,5.0
+450,Michael Waltz,RepMichaelWaltz,Republican,house of representatives,M,florida,6.0
+451,Ross Spano,RepRossSpano,Republican,house of representatives,M,florida,15.0
+452,W. Gregory Steube,RepGregSteube,Republican,house of representatives,M,florida,17.0
+453,Debbie Mucarsel-Powell,RepDMP,Democrat,house of representatives,F,florida,26.0
+454,Donna E. Shalala,RepShalala,Democrat,house of representatives,F,florida,27.0
+455,Lucy McBath,replucymcbath,Democrat,house of representatives,F,georgia,6.0
+456,Michael F. Q. San Nicolas,GuamCongressman,Democrat,house of representatives,M,GU,0.0
+457,Abby Finkenauer,RepFinkenauer,Democrat,house of representatives,F,iowa,1.0
+458,Cynthia Axne,RepCindyAxne,Democrat,house of representatives,F,iowa,3.0
+459,Russ Fulcher,RepRussFulcher,Republican,house of representatives,M,idaho,1.0
+460,"Jesús G. ""Chuy"" García",RepChuyGarcia,Democrat,house of representatives,M,illinois,4.0
+461,Sean Casten,RepCasten,Democrat,house of representatives,M,illinois,6.0
+462,Lauren Underwood,RepUnderwood,Democrat,house of representatives,F,illinois,14.0
+463,James R. Baird,RepJimBaird,Republican,house of representatives,M,indiana,4.0
+464,Greg Pence,RepGregPence,Republican,house of representatives,M,indiana,6.0
+465,Steve Watkins,Rep_Watkins,Republican,house of representatives,M,kansas,2.0
+466,Sharice Davids,RepDavids,Democrat,house of representatives,F,kansas,3.0
+467,Lori Trahan,RepLoriTrahan,Democrat,house of representatives,F,massachusetts,3.0
+468,Ayanna Pressley,RepPressley,Democrat,house of representatives,F,massachusetts,7.0
+469,David J. Trone,repdavidtrone,Democrat,house of representatives,M,maryland,6.0
+470,Elissa Slotkin,RepSlotkin,Democrat,house of representatives,F,michigan,8.0
+471,Andy Levin,RepAndyLevin,Democrat,house of representatives,M,michigan,9.0
+472,Haley M. Stevens,RepHaleyStevens,Democrat,house of representatives,F,michigan,11.0
+473,Rashida Tlaib,RepRashida,Democrat,house of representatives,F,michigan,13.0
+474,Jim Hagedorn,RepHagedorn,Republican,house of representatives,M,minnesota,1.0
+475,Angie Craig,RepAngieCraig,Democrat,house of representatives,F,minnesota,2.0
+476,Dean Phillips,RepDeanPhillips,Democrat,house of representatives,M,minnesota,3.0
+477,Ilhan Omar,Ilhan,Democrat,house of representatives,F,minnesota,5.0
+478,Pete Stauber,RepPeteStauber,Republican,house of representatives,M,minnesota,8.0
+479,Michael Guest,RepMichaelGuest,Republican,house of representatives,M,mississippi,3.0
+480,Kelly Armstrong,RepArmstrongND,Republican,house of representatives,M,north dakota,0.0
+481,Chris Pappas,RepChrisPappas,Democrat,house of representatives,M,new hampshire,1.0
+482,Jefferson Van Drew,CongressmanJVD,Republican,house of representatives,M,new jersey,2.0
+483,Andy Kim,RepAndyKimNJ,Democrat,house of representatives,M,new jersey,3.0
+484,Tom Malinowski,RepMalinowski,Democrat,house of representatives,M,new jersey,7.0
+485,Mikie Sherrill,RepSherrill,Democrat,house of representatives,F,new jersey,11.0
+486,Debra A. Haaland,RepDebHaaland,Democrat,house of representatives,F,new mexico,1.0
+487,Xochitl Torres Small,RepTorresSmall,Democrat,house of representatives,F,new mexico,2.0
+488,Susie Lee,RepSusieLee,Democrat,house of representatives,F,nevada,3.0
+489,Max Rose,RepMaxRose,Democrat,house of representatives,M,new york,11.0
+490,Alexandria Ocasio-Cortez,RepAOC,Democrat,house of representatives,F,new york,14.0
+491,Antonio Delgado,repdelgado,Democrat,house of representatives,M,new york,19.0
+492,Anthony Brindisi,RepBrindisi,Democrat,house of representatives,M,new york,22.0
+493,Anthony Gonzalez,RepAGonzalez,Republican,house of representatives,M,ohio,16.0
+494,Kendra S. Horn,RepKendraHorn,Democrat,house of representatives,F,oklahoma,5.0
+495,Madeleine Dean,RepDean,Democrat,house of representatives,F,pennsylvania,4.0
+496,Chrissy Houlahan,RepHoulahan,Democrat,house of representatives,F,pennsylvania,6.0
+497,Daniel Meuser,RepMeuser,Republican,house of representatives,M,pennsylvania,9.0
+498,John Joyce,RepJohnJoyce,Republican,house of representatives,M,pennsylvania,13.0
+499,Guy Reschenthaler,GReschenthaler,Republican,house of representatives,M,pennsylvania,14.0
+500,Joe Cunningham,RepCunningham,Democrat,house of representatives,M,south carolina,1.0
+501,William R. Timmons IV,RepTimmons,Republican,house of representatives,M,south carolina,4.0
+502,Dusty Johnson,RepDustyJohnson,Republican,house of representatives,M,south dakota,0.0
+503,Tim Burchett,RepTimBurchett,Republican,house of representatives,M,tennessee,2.0
+504,John W. Rose,RepJohnRose,Republican,house of representatives,M,tennessee,6.0
+505,Mark E. Green,RepMarkGreen,Republican,house of representatives,M,tennessee,7.0
+506,Dan Crenshaw,RepDanCrenshaw,Republican,house of representatives,M,texas,2.0
+507,Van Taylor,RepVanTaylor,Republican,house of representatives,M,texas,3.0
+508,Lance Gooden,RepLanceGooden,Republican,house of representatives,M,texas,5.0
+509,Ron Wright,RepRonWright,Republican,house of representatives,M,texas,6.0
+510,Lizzie Fletcher,RepFletcher,Democrat,house of representatives,F,texas,7.0
+511,Veronica Escobar,RepEscobar,Democrat,house of representatives,F,texas,16.0
+512,Chip Roy,RepChipRoy,Republican,house of representatives,M,texas,21.0
+513,Sylvia R. Garcia,RepSylviaGarcia,Democrat,house of representatives,F,texas,29.0
+514,Colin Z. Allred,RepColinAllred,Democrat,house of representatives,M,texas,32.0
+515,Ben McAdams,RepBenMcAdams,Democrat,house of representatives,M,utah,4.0
+516,Elaine G. Luria,RepElaineLuria,Democrat,house of representatives,F,vermont,2.0
+517,Denver Riggleman,RepRiggleman,Republican,house of representatives,M,vermont,5.0
+518,Ben Cline,RepBenCline,Republican,house of representatives,M,vermont,6.0
+519,Abigail Davis Spanberger,RepSpanberger,Democrat,house of representatives,F,vermont,7.0
+520,Jennifer Wexton,RepWexton,Democrat,house of representatives,F,vermont,10.0
+521,Kim Schrier,RepKimSchrier,Democrat,house of representatives,F,washington,8.0
+522,Bryan Steil,RepBryanSteil,Republican,house of representatives,M,wisconsin,1.0
+523,Carol D. Miller,RepCarolMiller,Republican,house of representatives,F,west virginia,3.0
+524,Rick Scott,SenRickScott,Republican,senator,M,florida,
+525,Mike Braun,SenatorBraun,Republican,senator,M,indiana,
+526,Josh Hawley,SenHawleyPress,Republican,senator,M,missouri,
+527,Mitt Romney,SenatorRomney,Republican,senator,M,utah,
+528,Martha McSally,SenMcSallyAZ,Republican,senator,F,arizona,
+529,Jared F. Golden,repgolden,Democrat,house of representatives,M,maine,2.0
+530,Fred Keller,RepFredKeller,Republican,house of representatives,M,pennsylvania,12.0
+531,Dan Bishop,,Republican,house of representatives,M,north carolina,9.0
+532,Gregory F. Murphy,,Republican,house of representatives,M,north carolina,3.0
+533,Kelly Loeffler,SenatorLoeffler,Republican,senator,F,georgia,
+534,Kweisi Mfume,,Democrat,house of representatives,M,maryland,7.0
+535,,,Republican,house of representatives,M,wisconsin,7.0
+536,,,Republican,house of representatives,M,california,25.0
